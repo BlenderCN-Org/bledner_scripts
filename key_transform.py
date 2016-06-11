@@ -1,4 +1,4 @@
-
+#python script for Blender for copy animation data to different keyframes
 import bpy
 from bpy.props import *
 target = ''
